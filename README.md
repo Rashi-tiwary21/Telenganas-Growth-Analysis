@@ -6,4 +6,5 @@ The "Analysis of Growth and Insights of Telangana Government" project provides v
 
 **Link of My Presentation Video** : https://www.linkedin.com/posts/rashi-tiwari-01568a228_codebasicsresumeprojectchallenge-opendatatelangana-activity-7114282928100024320-D3om?utm_source=share&utm_medium=member_desktop
 
-**Link of My Interactive Dashboard **: https://www.novypro.com/project/telanganas-growth-analysis--codebasics-resume-project-challenge-7-
+
+**Link of My Interactive Dashboard** : https://www.novypro.com/project/telanganas-growth-analysis--codebasics-resume-project-challenge-7-
